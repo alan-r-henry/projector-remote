@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Built locally from AdbShim.cs (see README)
+adb-sdcard-shim/*.exe
+# Local research helper, not part of the remote
+probe.ps1
